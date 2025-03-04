@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanghosh0&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanghosh0" /> </p>
 
-- 🔭 I’m currently working on **Styling JavaFX with CSS**
+- 🔭 I’m currently working on **Creating python projects to simplify tedious tasks**
 
 - 🌱 I’m currently learning **anything and everything possible !**
 
-- 🤝 I’m looking for help with **integrating JavaFX scenes with CSS**
+- 🤝 I’m looking for help with **integrating native app dev with python**
 
 - ⚡ Fun fact Did you know that a group of programmers is called a **cluster? Because apparently, even the collective noun for developers implies they're prone to crashing!**
 
