@@ -1,23 +1,73 @@
-<h1 align="center">Hi 👋, I'm Sayantan Ghosh</h1>
-<h3 align="center">A passionate experimentalist delving into anything possible.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanghosh0&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanghosh0" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1800&pause=1000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=760&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sayantan+Ghosh" />
+  <img alt="Hi 👋, I'm Sayantan Ghosh" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1800&pause=1000&repeat=false&color=1F2328&center=true&vCenter=true&width=760&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sayantan+Ghosh" />
+</picture>
 
-- 🔭 I’m currently working on **Creating python projects to simplify tedious tasks**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Open-source+contributor;Python+tinkerer;Turning+tedious+tasks+into+tools" />
+  <img alt="Open-source contributor, Python tinkerer, Turning tedious tasks into tools" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=640&lines=Open-source+contributor;Python+tinkerer;Turning+tedious+tasks+into+tools" />
+</picture>
 
-- 🌱 I’m currently learning **anything and everything possible !**
-
-- 🤝 I’m looking for help with **integrating native app dev with python**
-
-- ⚡ Fun fact Did you know that a group of programmers is called a **cluster? Because apparently, even the collective noun for developers implies they're prone to crashing!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sintancos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sintancos" height="30" width="40" /></a>
-<a href="https://www.behance.net/sintancos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sintancos" height="30" width="40" /></a>
+<p>
+  <i>A passionate experimentalist delving into anything possible.</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/sintancos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/sintancos"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="mailto:giichi088@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p align="center"><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayantanghosh0&show_icons=true&locale=en" alt="sayantanghosh0" /></p>
+<h3 align="center">🔭 Right now</h3>
+
+<p align="center">
+  🔨 <b>Currently building:</b> Open-source contributions<br/>
+  🌱 <b>Currently learning:</b> Local-first, open-source software (contributing to Anytype)<br/>
+  🤝 <b>Looking for help with:</b> Getting exposure to more open-source projects
+</p>
+
+<h3 align="center">🚀 Featured projects</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>📘 PDF Booklet Creator</h4>
+      Select pages from any PDF and turn them into a print-and-fold booklet.<br/><br/>
+      <sub>Python · Tkinter · pypdf · MIT</sub><br/><br/>
+      <a href="https://github.com/SayantanGhosh0/booklet-creator"><b>View repository →</b></a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>🧩 Anytype contributions</h4>
+      Contributing to <a href="https://github.com/anyproto">Anytype</a>, an open-source, local-first knowledge base.<br/><br/>
+      <sub>TypeScript (Electron) · Go</sub><br/><br/>
+      <a href="https://github.com/SayantanGhosh0/anytype-local"><b>Desktop fork →</b></a> &nbsp;·&nbsp; <a href="https://github.com/SayantanGhosh0/anytype-heart"><b>Middleware fork →</b></a>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">🧰 Tech stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<h3 align="center">📊 GitHub stats</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SayantanGhosh0&show_icons=true&theme=github_dark" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SayantanGhosh0&show_icons=true&theme=default" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SayantanGhosh0&layout=compact&langs_count=8&theme=github_dark" />
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayantanGhosh0&layout=compact&langs_count=8&theme=default" />
+  </picture>
+</p>
+
+</div>
