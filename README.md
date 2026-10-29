@@ -57,16 +57,19 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h3 align="center">📊 GitHub stats</h3>
+<h3 align="center">📊 GitHub activity</h3>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SayantanGhosh0&show_icons=true&theme=github_dark" />
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SayantanGhosh0&show_icons=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+    <img alt="GitHub streak" src="./profile/streak.svg" />
   </picture>
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SayantanGhosh0&layout=compact&langs_count=8&theme=github_dark" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayantanGhosh0&layout=compact&langs_count=8&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <img alt="Contribution snake" src="./profile/snake.svg" />
   </picture>
 </p>
 
