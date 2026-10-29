@@ -61,15 +61,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
-    <img alt="GitHub streak" src="./profile/streak.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SayantanGhosh0&theme=dark&disable_animations=true" />
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=SayantanGhosh0&theme=default&disable_animations=true" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <img alt="Contribution snake" src="./profile/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SayantanGhosh0&theme=dark" />
+    <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SayantanGhosh0&theme=default" />
   </picture>
 </p>
 
